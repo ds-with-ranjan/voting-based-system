@@ -58,4 +58,4 @@ endVoting();         // Admin ends the voting process
 
 This project represents the first step in bringing the power of blockchain to B2B supply chains, with a roadmap for continuous improvement and expansion to address the complex needs of modern global commerce.
 ## Contract Details: 0x5a2ce363355e4c1dc5fd4ea3379cd47882c92bc9802239d3cff27cb832990f1c
-![Screenshot 2025-05-01 225622](https://github.com/user-attachments/assets/5121833d-13b1-440a-a9d4-b61be0cdb480)
+![Screenshot 2025-05-01 225622](https://raw.githubusercontent.com/ds-with-ranjan/voting-based-system/refs/heads/main/Screenshot%202025-05-26%20143113.png)
